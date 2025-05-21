@@ -12,7 +12,7 @@
 - 🔭 Estou trabalhando no meu projeto de TCC chamado **Opportune**
 - 🌱 Atualmente aprendendo mais sobre **TypeScript, Clean Architecture e IA aplicada**
 - 💬 Pergunte-me sobre **Node.js, Prisma, React, tRPC e bancos de dados**
-- 📫 Como me encontrar: **guilhermesilva.dev@gmail.com**
+- 📫 Como me encontrar: **guilhermefrigs.dev@gmail.com**
 - ⚡ Fun fact: **Fico mais inspirado de madrugada 😅**
 
 ---
@@ -40,7 +40,7 @@
   <a href="https://linkedin.com/in/guilhermefrigsdev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:guilhermesilva.dev@gmail.com">
+  <a href="mailto:guilhermefrigs.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%2312100E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -51,4 +51,4 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Opportune](https://github.com/guilherme-silva-santos/opportune) | Plataforma de análise de mercado de trabalho | `Next.js`, `tRPC`, `Prisma`, `MySQL`, `Recharts` |
+| [Opportune] ainda privado! (https://github.com/Frigs2to0/Opportune) | Plataforma de análise de mercado de trabalho | `Next.js`, `tRPC`, `Prisma`, `MySQL`, `Recharts` |
